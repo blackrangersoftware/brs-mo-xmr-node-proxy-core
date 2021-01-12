@@ -43,7 +43,7 @@ curl -L https://raw.githubusercontent.com/blackrangersoftware/brs-xmr-node-proxy
 
 3. Once it's complete, copy `config_example.json` to `config.json` and edit as desired.
 4. Run: `source ~/.bashrc`  This will activate NVM and get things working for the following pm2 steps.
-8. Once you're happy with the settings, go ahead and start all the proxy daemon, commands follow.
+8. Once you're happy with the settings, go ahead & start all the proxy daemon, commands follow.
 
 ```shell
 cd ~/xmr-node-proxy/
