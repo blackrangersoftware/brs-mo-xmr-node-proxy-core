@@ -17,7 +17,7 @@ Based on a clean Ubuntu 16.04 LTS minimal install
 
 ```bash
 cd xmr-node-proxy
-git remote set-url origin https://github.com/blackrangersoftware/brs-mo-xmr-node-proxy-core.git && git pull -X theirs --no-edit && npm update
+git remote set-url origin https://github.com/blackrangersoftware/brs-xmr-node-proxy.git && git pull -X theirs --no-edit && npm update
 ```
 
 ## Deployment via Installer on Linux
